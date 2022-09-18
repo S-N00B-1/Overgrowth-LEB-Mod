@@ -1,16 +1,14 @@
 {
-    "name": "Example LEB Mod",
-    "description": "This is an example mod, your description goes here!",
-    "authors": "DBTDerpbox",
+    "name": "Overgrowth",
+    "description": "Deep within the jungle lies an overgrown temple, a place where nature has reclaimed its rightful place as ruler of the land.",
+    "authors": "S_N00B",
     "version": "1",
-    "id": "examplemod",
-    "pack": "vanilla",
-    "hassmall": false,
+    "id": "overgrowth",
+    "pack": "overgrowth",
+    "hassmall": true,
     "haslarge": true,
     "haslargeplus": false,
     "hasremastered": false,
-    "centercoords_small": "0 0 0",
-    "centercoords_large": "0 0 0",
-    "centercoords_largeplus": "0 0 0",
-    "centercoords_remastered": "0 0 0"
+    "centercoords_small": "112 60 377",
+    "centercoords_large": "9 14 16"
 }
